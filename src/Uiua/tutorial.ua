@@ -41,3 +41,6 @@
 names ← {"Lily" "Jason"}
 ⊡0 names
 ∈ names □"jason"
+# Challenge 1
+# Write a program that adds an array to its reverse.
++⇌.
