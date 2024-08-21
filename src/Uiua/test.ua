@@ -2,3 +2,5 @@
 
 # This generates audio 
 &ap÷3/+∿⊞×⊟×1.5. 220×τ÷⟜⇡&asr
+
+&ims⊞<. ÷⟜⇡100
